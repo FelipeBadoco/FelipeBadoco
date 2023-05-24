@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BDDA&size=25&center=true&vStart=true&width=1000&lines=Olá,+Bem-vindo+ao+meu+repositório,+I'm+Felipe;Eu+estudo+programação!+👋+:%29)]([https://git.io/typing-svg](https://github.com/FelipeBadoco))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BDDA&size=25&center=true&vStart=true&width=1000&lines=Olá,+Bem-vindo+ao+meu+repositório,+Sou+o+Felipe;Eu+estudo+programação!+👋+:%29)]([https://git.io/typing-svg](https://github.com/FelipeBadoco))
 
 <div align="center">
   <a href="https://github.com/FelipeBadoco">
@@ -10,9 +10,9 @@
 <br>
 <div style="display: inline_block"><br>
   
-  <a href="https://github.com/FelipeBadoco" target="_blank" rel="noopener noreferrer"><img align="center" alt="Braga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a href="https://github.com/FelipeBadoco" target="_blank" rel="noopener noreferrer"><img align="center" alt="Braga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://github.com/FelipeBadoco" target="_blank" rel="noopener noreferrer"><img align="center" alt="Braga-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></a>
+  <a href="https://github.com/FelipeBadoco" target="_blank" rel="noopener noreferrer"><img align="center" alt="Badoco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://github.com/FelipeBadoco" target="_blank" rel="noopener noreferrer"><img align="center" alt="Badoco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href="https://github.com/FelipeBadoco" target="_blank" rel="noopener noreferrer"><img align="center" alt="Badoco-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></a>
 </div>
   
   ##
