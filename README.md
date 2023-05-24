@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BDDA&size=25&center=true&vStart=true&width=1000&lines=Hello,+Bem-vindo+ao+meu+repositório,+I'm+Felipe;Eu+estudo+programação!+👋+:%29)]([https://git.io/typing-svg](https://github.com/FelipeBadoco))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57BDDA&size=25&center=true&vStart=true&width=1000&lines=Olá,+Bem-vindo+ao+meu+repositório,+I'm+Felipe;Eu+estudo+programação!+👋+:%29)]([https://git.io/typing-svg](https://github.com/FelipeBadoco))
 
 <div align="center">
   <a href="https://github.com/FelipeBadoco">
