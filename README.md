@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/FelipeBadoco">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FelipeBadoco&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBadoco&layout=compact&langs_count=7&theme=react"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=FelipeBadoco&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-BR"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBadoco&layout=compact&langs_count=7&theme=transparent&locale=pt-BR"/>
 </div>
 <br>
  Tecnologias que estudo ✍️
