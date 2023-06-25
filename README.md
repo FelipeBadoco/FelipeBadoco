@@ -29,5 +29,6 @@
   <a href="https://twitter.com/FelipeBadoco" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   <a href="https://instagram.com/badoco.felipe_/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
   
-    ![Snake animation](https://github.com/FelipeBadoco/FelipeBadoco/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
+    [![Snake animation](https://github.com/FelipeBadoco/FelipeBadoco/blob/output/github-contribution-grid-snake.svg)]
