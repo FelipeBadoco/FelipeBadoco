@@ -31,4 +31,4 @@
   
     
 </div>
-    [![Snake animation](https://github.com/FelipeBadoco/FelipeBadoco/blob/output/github-contribution-grid-snake.svg)]
+   
